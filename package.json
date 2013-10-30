@@ -1,6 +1,6 @@
 {
   "name": "url-shortener-cli",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Shortens a URL with my url shortener and copies the result to your clipboard",
   "main": "index.js",
   "bin": {
@@ -13,5 +13,17 @@
   "license": "BSD-2-Clause",
   "dependencies": {
     "request": "~2.27.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jrf0110/url-shortener-cli.git"
+  },
+  "keywords": [
+    "url",
+    "shortener"
+  ],
+  "bugs": {
+    "url": "https://github.com/jrf0110/url-shortener-cli/issues"
   }
 }
