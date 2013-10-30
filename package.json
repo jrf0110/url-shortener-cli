@@ -1,0 +1,17 @@
+{
+  "name": "url-shortener-cli",
+  "version": "0.0.1",
+  "description": "Shortens a URL with my url shortener and copies the result to your clipboard",
+  "main": "index.js",
+  "bin": {
+    "url-shortener-cli": "shorten.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Fawcett",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "request": "~2.27.0"
+  }
+}
