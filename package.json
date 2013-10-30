@@ -1,6 +1,6 @@
 {
   "name": "url-shortener-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shortens a URL with my url shortener and copies the result to your clipboard",
   "main": "index.js",
   "bin": {
