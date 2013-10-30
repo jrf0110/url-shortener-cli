@@ -4,7 +4,7 @@
   "description": "Shortens a URL with my url shortener and copies the result to your clipboard",
   "main": "index.js",
   "bin": {
-    "url-shortener-cli": "shorten.js"
+    "shorten": "shorten.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
